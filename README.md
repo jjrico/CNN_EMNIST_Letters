@@ -1,4 +1,6 @@
 # CNN_EMNIST_Letters
+# By: Jeremy Rico
+# Language: Python with Keras for TensorFlow
 
 This project utilizes Google's TensorFlow and Keras to create a Convolutional Neural Network with two hidden layers. The network is trained on the EMNIST_Letters dataset with the goal of being able to classify handwritten characters. 
 
